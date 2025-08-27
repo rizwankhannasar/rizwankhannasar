@@ -1,28 +1,69 @@
-<h2 align="center">Hi 👋! I AM RIZWAN KHAN.</h2>
+ # 👋 Hello! I'm Rizwan Khan
 
-###
+🎓 A Software Engineering Student at Mirpur University (MUST), Pakistan  
+- Passionate Front-End Developer  
+- Cricket Lover 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 🔧 Tech Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+-  HTML, CSS, JavaScript  
+-  javascript  
+-  MySQL  
+-  C++, Python (Basic), Git & GitHub  
+-  C#, OOP Concepts, Networking Basics
+  
+  ---
 
-###
+## 📚 Education & Study Journey
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+-  Currently pursuing **BS Software Engineering** at *Mirpur University of Science & Technology (MUST)*  
+
+### 📘 Skills & Technologies that i have learned in Software Engineering:
+
+# 💻 Programming & Development
+
+- C++ (OOP, DSA, Algorithms)
+
+- Python (Basics, Problem Solving)
+
+- HTML, CSS, JavaScript (Front-End Development)
+
+# 🗄️ Databases
+
+- MySQL (basic queries, relational concepts)
+
+# 🌐 Networking & Systems
+
+- Computer Networks (TCP/IP, topologies, Packet Tracer labs)
+
+- Operating Systems (concepts of processes, scheduling, memory management)
+
+# 📊 Software Engineering Concepts
+
+- Software Development Life Cycle (SDLC)
+
+
+# 🛠️ Tools
+
+- Git & GitHub
+
+- Visual Studio / VS Code
+
+- Cisco Packet Tracer
+
+---
+
+## 📫 Contact Me
+- Email: rizwankhannasar125@gmail.com
+- LinkedIn: linkedin.com/in/rizwan-khan-nasar-35b147360
+  
+---
+
+ ## 📊 GitHub Stats
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwankhannasar&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwankhannasar&layout=compact&theme=tokyonight)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizwankhannasar)
