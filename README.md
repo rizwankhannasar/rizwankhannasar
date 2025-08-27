@@ -22,7 +22,7 @@
 
 ### 📘 Skills & Technologies that i have learned in Software Engineering:
 
-# 💻 Programming & Development
+  Programming & Development
 
 - C++ (OOP, DSA, Algorithms)
 
@@ -30,19 +30,16 @@
 
 - HTML, CSS, JavaScript (Front-End Development)
 
-# 🗄️ Databases
+ 🗄️ Databases
 
 - MySQL (basic queries, relational concepts)
 
-# 🌐 Networking & Systems
+ 🌐 Networking & Systems
 
 - Computer Networks (TCP/IP, topologies, Packet Tracer labs)
 
 - Operating Systems (concepts of processes, scheduling, memory management)
 
-# 📊 Software Engineering Concepts
-
-- Software Development Life Cycle (SDLC)
 
 
 # 🛠️ Tools
